@@ -1,2 +1,2 @@
-# DK-
-Data-and Knowledge-Driven Belief Rule-Based Classification
+# DBRBCS
+Dynamic Belief Rule-Based Classification System
